@@ -9,4 +9,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Spring boot
 - Java 
 
-## Feito com ❤️ por patrícia.barnabé
+## Feito com ❤️ por Patrícia Barnabé
