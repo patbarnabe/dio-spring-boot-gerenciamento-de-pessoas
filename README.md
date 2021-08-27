@@ -6,6 +6,7 @@ O projeto é um API REST com Spring Boot para cadastro e gerenciamento de  pesso
 ## Tecnogias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-👨‍💻️ Spring boot 💻️java 
+- Spring boot
+- Java 
 
 ## Feito com ❤️ por patrícia.barnabé
